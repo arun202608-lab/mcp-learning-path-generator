@@ -1,6 +1,5 @@
-langchain
-langgraph
-langchain-mcp-adapters
-langchain-google-genai
 streamlit
-requests
+langchain-core
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
